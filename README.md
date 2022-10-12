@@ -4,6 +4,6 @@
 
 # Alunos
 
-Antonio Carlos Borges de Souza - antoniocarlos06b@gmail.com;
-Ítalo Ricardo de Andrade Silva - italogod96@gmail.com;
+Antonio Carlos Borges de Souza - antoniocarlos06b@gmail.com;</br>
+Ítalo Ricardo de Andrade Silva - italogod96@gmail.com;</br>
 Kauê Andrade dos Santos - kauedd22@gmail.com.
